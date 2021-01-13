@@ -2,10 +2,12 @@
 testing my vagrantfiles
 
 ## HowTo
-1. Clone this repo to your computer. 
+1. Install the latest version of Ansible
+2. Install the latest version of Virtualbox
+3. Clone this repo to your computer. 
 Run `git clone https://github.com/dduclayan/testbox.git`.
-2. cd into the testbox directory. 
-3. Run `vagrant up` 
+4. CD into the testbox directory. 
+5. Run `vagrant up` 
 
 ## Vagrant Commands
 **Bring up and provision machines**
