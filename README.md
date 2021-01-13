@@ -1,5 +1,5 @@
-# testbox
-testing my vagrantfiles
+## testbox
+Testing my vagrantfiles
 
 ## HowTo
 1. Install the latest version of Vagrant
