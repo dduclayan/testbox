@@ -23,13 +23,9 @@ Run `git clone https://github.com/dduclayan/testbox.git`.
 `vagrant destroy -f` then run `vagrant up` to bring the machines back 
 
 ## Accounts
-Default accounts
 
-user: vagrant (root)
-
-pw: vagrant
-
-user: user (non-root)
-
-pw: password
+username | password
+------------ | -------------
+vagrant | vagrant
+user | password
 
