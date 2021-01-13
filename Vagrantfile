@@ -2,7 +2,6 @@ Vagrant.configure("2") do |config|
   config.vm.define "testserver01" do |testserver01|
     testserver01.vm.box = "centos/8"
     testserver01.vm.hostname = "testserver01"
-    testserver01.vm.network "private_network", type: "dhcp"
     testserver01.vm.provider :virtualbox do |vb|
       vb.customize ["modifyvm", :id, "--memory", "2048"]
       vb.customize ["modifyvm", :id, "--cpus", "2"]
