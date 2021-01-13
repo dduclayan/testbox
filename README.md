@@ -24,9 +24,12 @@ Run `git clone https://github.com/dduclayan/testbox.git`.
 
 ## Accounts
 Default accounts
+
 user: vagrant (root)
+
 pw: vagrant
 
 user: user (non-root)
+
 pw: password
 
