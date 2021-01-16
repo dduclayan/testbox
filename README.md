@@ -27,5 +27,5 @@ Run `git clone https://github.com/dduclayan/testbox.git`.
 username | password
 ------------ | -------------
 vagrant | vagrant
-user | password
+user (non-sudo) | password
 
